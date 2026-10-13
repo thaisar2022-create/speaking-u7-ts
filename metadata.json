@@ -1,0 +1,6 @@
+{
+  "name": "ThaiSar — Unit 7 Food",
+  "description": "Thai listening and speaking for Myanmar learners — Unit 7 အစားအစာ mobile web app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

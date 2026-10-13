@@ -1,0 +1,20 @@
+{
+  "name": "ThaiSar — Unit 7 Food",
+  "short_name": "ThaiSar 7",
+  "description": "Thai speaking and food conversations for Myanmar learners — Unit 7",
+  "lang": "my",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#4d1060",
+  "background_color": "#f8f3fa",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./?unit=7"
+}
